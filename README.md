@@ -13,7 +13,6 @@ Before running the script, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/emotion-recognition-audio.git
     cd emotion-recognition-audio
     ```
 
